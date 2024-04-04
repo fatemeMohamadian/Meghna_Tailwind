@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'menu';
+    src: url('../font/Merriweather-Bold.ttf');
+    font-family: 'project';
+    src: url('../font/PlayfairDisplay-VariableFont_wght.ttf');
+    font-family: 'text';
+    src: url('../font/Merriweather-Light.ttf');
+    font-family: 'text2';
+    src: url('../font/Merriweather-Regular.ttf');
+}
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#slide1{
+    
+    background-image: url('../img/hero-area.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slide2{
+    background-image: url('../img/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slide3{
+    background-image: url('../img/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slide4{
+    background-image: url('../img/blog-post-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    @keyframes img1{
+        0%{left: 0;}
+        47%{left: 0;}
+        53%{left: 100%;}
+        53.0000000001%{left: -100%;}
+        94%{left: -100%;}
+        100%{left: 0;}
+    }
+    @keyframes img2{
+        0%{left: -100%;}
+        47%{left: -100%;}
+        53%{left: 0;}
+        97%{left: 0;}
+        100%{left: 100%;}
+    }
