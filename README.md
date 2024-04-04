@@ -1,5 +1,5 @@
 # Meghna_Tailwind
- Used TailwindCss
+ **Project_Responsive**
 
  👩‍💻😎[Demo Project](https://fatememohamadian.github.io/Meghna_Tailwind/)
 
