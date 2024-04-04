@@ -5,10 +5,10 @@
 
                                                             😎😉  
                                                           
-![1](https://github.com/fatemeMohamadian/Meghna_Tailwind/assets/155579918/c3fb2bfe-fddd-41d8-826f-02bac1fbcbcf)
-
+![1](https://github.com/fatemeMohamadian/Meghna_Tailwind/assets/155579918/34904b1e-abba-4674-b53a-3ec376e2c485)
                                                              👩‍💻
-![2](https://github.com/fatemeMohamadian/Meghna_Tailwind/assets/155579918/faf7d19f-d44f-4f50-9f77-f54dc56022a2)
+![2](https://github.com/fatemeMohamadian/Meghna_Tailwind/assets/155579918/70cafc75-21fd-4fcc-b9f0-10f7f374d59f)
+
 
                                                             😎😉  
 
