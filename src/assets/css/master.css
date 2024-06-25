@@ -5,12 +5,18 @@
 @font-face {
     font-family: 'menu';
     src: url('../font/Merriweather-Bold.ttf');
-    font-family: 'project';
-    src: url('../font/PlayfairDisplay-VariableFont_wght.ttf');
-    font-family: 'text';
-    src: url('../font/Merriweather-Light.ttf');
+}
+@font-face {
     font-family: 'text2';
     src: url('../font/Merriweather-Regular.ttf');
+}
+@font-face {
+    font-family: 'text';
+    src: url('../font/Merriweather-Light.ttf');
+}
+@font-face {
+    font-family: 'project';
+    src: url('../font/PlayfairDisplay-VariableFont_wght.ttf');
 }
 .row{
     width: 100%;
